@@ -1,0 +1,4 @@
+To implement Animation 
+To design an app which implement animated welcome activity of your application which show some kind of animation using multithreading concept.
+To work on making it work properly in night mode also.
+To change the font of the balance sheet page.
